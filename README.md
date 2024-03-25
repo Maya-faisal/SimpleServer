@@ -13,5 +13,5 @@ Using socket programming, implement a simple complete web server in Python that 
    - If the request is `/rt`, then redirect to the Ritaj website.
 8. If the request is wrong or the file doesn’t exist, the server should return a simple HTML webpage that contains `Content-Type: text/html`.
 
-Part B
+For Broadcast servers
 Using socket programming, implement UDP client and server applications in Python. The server should listen on port 8855. The client sends broadcast messages every 2 seconds.
